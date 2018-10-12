@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assign 1</string>
+    <string name="mess_toast">You pressed the button.</string>
+    <string name="textView7">Name Graeme Maher</string>
+    <string name="textView8">Name Student ID: 17111072</string>
+     <string name="button5">Press Me</string>
+    <string name="mess_1">You Pressed the Button</string>
+
+
+</resources>
